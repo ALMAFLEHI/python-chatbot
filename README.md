@@ -88,9 +88,9 @@ Open a Pull Request
 MIT License - Because even aliens believe in open source.
 "You humans and your 'licenses'... On Xylophon we just share telepathically!"
 
-<p align="center"> <i>Made with ❤️ (and occasional static interference) by ALMAFLEHI</i><br> <sub>*Zog-7 approved this message*</sub> </p>
+Made with ❤️ (and occasional static interference) by ALMAFLEHI  
+*Zog-7 approved this message*
 
 🌐 Visit my portfolio: almaflehidev.com
-
 
 You can now copy this directly! Let me know if anything needs to be tweaked further!
