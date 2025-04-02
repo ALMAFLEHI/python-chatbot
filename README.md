@@ -2,7 +2,9 @@
 
 *"Your primitive human words amuse me!"* - Zog-7, probably
 
-![Alien Chatbot Demo](demo.gif) *(Add a screen recording later)*
+
+![Alien Chatbot Demo](demo.gif)
+![Animation](https://github.com/user-attachments/assets/9178d23a-2f65-47a3-8a8b-1b67a71ebb84)
 
 A hybrid chatbot that combines:
 - **Rule-based responses** for basic interactions
